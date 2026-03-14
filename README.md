@@ -65,7 +65,8 @@ Make sure the input image (e.g., `mustang.jpeg`) is in the same directory.
 ![k=100](results/k=100.png)
 ### terminal output
 ![output](results/output.png)
-
+colored images  after compression
+![Figure_1](results/Figure_1.png)
 ## Learning Concepts
 * Linear Algebra
 * Singular Value Decomposition
