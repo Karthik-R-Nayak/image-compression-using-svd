@@ -53,16 +53,16 @@ Make sure the input image (e.g., `mustang.jpeg`) is in the same directory.
 ![Original](results/original.png)
 
 ### k = 5
-![k=5](results/k5.png)
+![k=5](results/k=5.png)
 
 ### k = 20
-![k=20](results/k20.png)
+![k=20](results/k=20.png)
 
 ### k = 50
-![k50](results/k50.png)
+![k50](results/k=50.png)
 
 ### k = 100
-![k=100](results/k100.png)
+![k=100](results/k=100.png)
 ### terminal output
 
 
