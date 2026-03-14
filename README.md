@@ -64,7 +64,7 @@ Make sure the input image (e.g., `mustang.jpeg`) is in the same directory.
 ### k = 100
 ![k=100](results/k=100.png)
 ### terminal output
-
+![output](results/output.png)
 
 ## Learning Concepts
 * Linear Algebra
