@@ -18,7 +18,7 @@ Where:
 By keeping only the top **k singular values**, we reconstruct an approximation of the original image.
 
 ## Features
-* Convert image to grayscale matrix
+* Convert image to grayscale matrix or  colored matrix(RGB) depending on users input
 * Apply Singular Value Decomposition
 * Reconstruct compressed images using different k values
 * Compare compression levels visually
@@ -65,8 +65,10 @@ Make sure the input image (e.g., `mustang.jpeg`) is in the same directory.
 ![k=100](results/k=100.png)
 ### terminal output
 ![output](results/output.png)
+
 colored images  after compression
 ![Figure_1](results/Figure_1.png)
+
 ## Learning Concepts
 * Linear Algebra
 * Singular Value Decomposition
