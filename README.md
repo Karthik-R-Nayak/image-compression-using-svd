@@ -47,10 +47,24 @@ python jackfruit.py
 Make sure the input image (e.g., `mustang.jpeg`) is in the same directory.
 
 ## Output
-The program displays:
-* Original image
-* Compressed images for different values of k
-* Compression statistics in the terminal
+## Results
+
+### Original Image
+![Original](results/original.png)
+
+### k = 5
+![k5](results/k5.png)
+
+### k = 20
+![k20](results/k20.png)
+
+### k = 50
+![k50](results/k50.png)
+
+### k = 100
+![k100](results/k100.png)
+### terminal output
+
 
 ## Learning Concepts
 * Linear Algebra
