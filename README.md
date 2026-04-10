@@ -43,7 +43,7 @@ Install dependencies:
 pip install numpy matplotlib pillow
 
 Run the program:
-python jackfruit.py
+python main.py
 Make sure the input image (e.g., `mustang.jpeg`) is in the same directory.
 
 ## Output
